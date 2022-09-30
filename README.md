@@ -1,5 +1,6 @@
 # Personal Website
 
-This is a personal website for me in order to showcase my projects, work experience etc. to companies as a resume.
+This is a personal website for me in order to showcase my projects, work experience etc. to companies as a resume. 
+Changes done.
 
 See - https://sounmay-portfolio.netlify.app/
